@@ -38,6 +38,10 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
 /*if your logo is bigger, you can make room like this*/
 #menu { margin-left: 175px; }
 
+#courses_menu_item{
+  text-indent: -5px;
+}
+
 /*change the identity bar (the area that says "Hilary Scharton Inbox Settings Logout Help)*/
 #identity {
   background-image: none;
