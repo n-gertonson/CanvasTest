@@ -59,12 +59,12 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
   -moz-transition: all 0.2s ease-in-out 0s;
   -webkit-transition: all 0.2s ease-in-out 0s;
   transition: all 0.2s ease-in-out 0s;
-  text-decoration: none;
+
 }
 
 /*change the color of the circle around the number of unread inbox messages*/
 #identity .inbox a .unread-messages-count {
-  background-color: #F2F0DD;
+  background-color: #FFFFFF;
 }
 
 #identity #identity-help-container a {
@@ -79,7 +79,7 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
   -moz-transition: all 0.2s ease-in-out 0s;
   -webkit-transition: all 0.2s ease-in-out 0s;
   transition: all 0.2s ease-in-out 0s;
-  text-decoration: none;
+
 }
 
 
@@ -90,6 +90,16 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
   color: #FFFFFF;
   text-shadow: none;
   line-height: 18px;
+  -moz-transition: all 0.2s ease-in-out 0s;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
+}
+
+.menu-item .menu-item-title, .menu-item .menu-item-no-drop a:hover{
+  color: #ffae00;
+  -moz-transition: all 0.2s ease-in-out 0s;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s; 
 }
 
 /*login box*/
