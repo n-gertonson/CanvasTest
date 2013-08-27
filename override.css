@@ -1,8 +1,3 @@
-#body{
-  background-color: #656565;
-  background-image: none;
-}
-
 /* Replace the gray background with something that matches your colors.  You can use .pngs with alpha transparency. If you don't use an image, you need to remove ours*/
 #header { 
   /*background: url("noisy_blue.png?v1") repeat-x scroll center transparent;
