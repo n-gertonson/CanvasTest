@@ -86,7 +86,9 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
   text-decoration: none !important;  
 }
 
-
+#identity .inbox a:hover span, #identity .inbox a:active span{
+  text-decoration: none;
+}
 
 
 /*change the color of the menu items (courses & groups etc.). If the text looks fuzzy, remove the text shadow.*/
