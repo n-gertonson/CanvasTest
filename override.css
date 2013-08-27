@@ -8,7 +8,7 @@
 
 /*replace the canvas logo with your logo*/
 #header-logo, #header.no-user #header-logo {
-  background: url("header_logo.png?v1") no-repeat scroll 0 0 transparent;
+  background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.png") no-repeat scroll 0 0 transparent;
   bottom: 0px;
   height: 70px;
   left: 15px;
