@@ -16,7 +16,7 @@
 
 /*replace the canvas logo with your logo*/
 #header-logo, #header.no-user #header-logo {
-  background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.png") no-repeat scroll 0 0 transparent;
+  background: url("https://raw.github.com/n-gertonson/CanvasTest/master/canvas_white_logo.png") no-repeat scroll 0 0 transparent;
   bottom: 0px;
   height: 70px;
   left: 10px;
@@ -26,7 +26,7 @@
 
 /*if you replace the left canvas logo, move a smaller one to the right side of the header--I made the image gray first*/
 #header-logo-secondary {
-  background-image: none;
+background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_header.png") no-repeat scroll 0 0 transparent;
   bottom: 11px;
   height: 26;
   position: absolute;
@@ -36,7 +36,7 @@
 }
 
 /*if your logo is bigger, you can make room like this*/
-#menu { margin-left: 250px; }
+#menu { margin-left: 200px; }
 
 /*change the identity bar (the area that says "Hilary Scharton Inbox Settings Logout Help)*/
 #identity {
