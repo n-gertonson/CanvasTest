@@ -46,7 +46,7 @@
 }
 
 /*change the color of the identity text*/
-#identity a { color: black; }
+#identity a { color: white; }
 /*change the color of the circle around the number of unread inbox messages*/
 #identity .inbox a .unread-messages-count { background-color: #F2F0DD; }
 #identity #identity-help-container a { color: black; }
