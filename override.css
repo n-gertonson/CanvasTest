@@ -19,8 +19,8 @@
   background: url("https://raw.github.com/n-gertonson/CanvasTest/master/canvas_white_logo.png") no-repeat scroll 0 0 transparent;
   bottom: 0px;
   height: 70px;
-  left: 10px;
-  width: 180px;
+  left: 0px;
+  width: 175px;
 }
 
 
@@ -36,7 +36,7 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
 }
 
 /*if your logo is bigger, you can make room like this*/
-#menu { margin-left: 200px; }
+#menu { margin-left: 180px; }
 
 /*change the identity bar (the area that says "Hilary Scharton Inbox Settings Logout Help)*/
 #identity {
