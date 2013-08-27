@@ -55,6 +55,7 @@
 .menu-item .menu-item-title, .menu-item .menu-item-no-drop {
   color: #FFFFFF;
   text-shadow: none;
+  line-height: 25px;
 }
 
 /*login box*/
