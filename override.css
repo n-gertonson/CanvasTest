@@ -26,7 +26,7 @@
 
 /*if you replace the left canvas logo, move a smaller one to the right side of the header--I made the image gray first*/
 #header-logo-secondary {
-  background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.png") no-repeat scroll 0 0 transparent;
+  background-image: none;
   bottom: 11px;
   height: 26;
   position: absolute;
@@ -42,7 +42,7 @@
 #identity {
   background-image: none;
   background-color: #000000;
-  border:1px solid #f2f2f2;
+  border: none;
 }
 
 /*change the color of the identity text*/
