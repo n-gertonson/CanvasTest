@@ -59,7 +59,11 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
   -moz-transition: all 0.2s ease-in-out 0s;
   -webkit-transition: all 0.2s ease-in-out 0s;
   transition: all 0.2s ease-in-out 0s;
+  text-decoration: none !important;
+}
 
+#identity.first a:hover, #identity.inbox a:hover{
+  text-decoration: none !important;
 }
 
 /*change the color of the circle around the number of unread inbox messages*/
@@ -79,7 +83,7 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
   -moz-transition: all 0.2s ease-in-out 0s;
   -webkit-transition: all 0.2s ease-in-out 0s;
   transition: all 0.2s ease-in-out 0s;
-
+  text-decoration: none !important;  
 }
 
 
