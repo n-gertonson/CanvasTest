@@ -27,7 +27,7 @@
 /*if you replace the left canvas logo, move a smaller one to the right side of the header--I made the image gray first*/
 #header-logo-secondary {
 background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.png") no-repeat scroll 0 0 transparent;
-  bottom: 11px;
+  bottom: 15px;
   height: 30px;
   position: absolute;
   right: 15px;
