@@ -27,7 +27,7 @@
 /*if you replace the left canvas logo, move a smaller one to the right side of the header--I made the image gray first*/
 #header-logo-secondary {
 background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.png") no-repeat scroll 0 0 transparent;
-  bottom: 15px;
+  bottom: 11px;
   height: 30px;
   position: absolute;
   right: 15px;
@@ -55,7 +55,7 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
 .menu-item .menu-item-title, .menu-item .menu-item-no-drop {
   color: #FFFFFF;
   text-shadow: none;
-  line-height: 25px;
+  line-height: 18px;
 }
 
 /*login box*/
