@@ -19,8 +19,8 @@
   background: url("https://raw.github.com/n-gertonson/CanvasTest/master/canvas_white_logo.png") no-repeat scroll 0 0 transparent;
   bottom: 0px;
   height: 70px;
-  left: 0px;
-  width: 175px;
+  left: 10px;
+  width: 145px;
 }
 
 
@@ -28,15 +28,15 @@
 #header-logo-secondary {
 background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.png") no-repeat scroll 0 0 transparent;
   bottom: 11px;
-  height: 26;
+  height: 30px;
   position: absolute;
-  right: 26px;
-  width: 135px;
+  right: 15px;
+  width: 270px;
   display: block;
 }
 
 /*if your logo is bigger, you can make room like this*/
-#menu { margin-left: 180px; }
+#menu { margin-left: 175px; }
 
 /*change the identity bar (the area that says "Hilary Scharton Inbox Settings Logout Help)*/
 #identity {
