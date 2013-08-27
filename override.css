@@ -41,7 +41,8 @@
 /*change the identity bar (the area that says "Hilary Scharton Inbox Settings Logout Help)*/
 #identity {
   background-image: none;
-  background-color: #A1C42E;
+  background-color: #000000;
+  border:1px solid #a066ab;
 }
 
 /*change the color of the identity text*/
