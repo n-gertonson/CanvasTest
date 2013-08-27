@@ -19,7 +19,7 @@
   background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.png") no-repeat scroll 0 0 transparent;
   bottom: 0px;
   height: 70px;
-  left: 5px;
+  left: 10px;
   width: 180px;
 }
 
@@ -46,14 +46,14 @@
 }
 
 /*change the color of the identity text*/
-#identity a { color: white; }
+#identity a { color: #ffffff; }
 /*change the color of the circle around the number of unread inbox messages*/
 #identity .inbox a .unread-messages-count { background-color: #F2F0DD; }
-#identity #identity-help-container a { color: black; }
+#identity #identity-help-container a { color: #ffffff; }
 
 /*change the color of the menu items (courses & groups etc.). If the text looks fuzzy, remove the text shadow.*/
 .menu-item .menu-item-title, .menu-item .menu-item-no-drop {
-  color: #FAFBF4;
+  color: #FFFFFF;
   text-shadow: none;
 }
 
