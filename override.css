@@ -1,8 +1,8 @@
 /* Replace the gray background with something that matches your colors.  You can use .pngs with alpha transparency. If you don't use an image, you need to remove ours*/
 #header { 
-  background: url("noisy_blue.png?v1") repeat-x scroll center transparent;
-  /* OR background-image: none; 
-  background-color: #EBF5FA;*/
+  /*background: url("noisy_blue.png?v1") repeat-x scroll center transparent;
+  /* OR background-image: none; */
+  background-color: rgba(77, 1, 92, 0.8);
 }
 
 
@@ -11,7 +11,7 @@
   background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.png") no-repeat scroll 0 0 transparent;
   bottom: 0px;
   height: 70px;
-  left: 15px;
+  left: 5px;
   width: 180px;
 }
 
