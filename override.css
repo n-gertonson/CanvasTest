@@ -1,14 +1,14 @@
 /* Replace the gray background with something that matches your colors.  You can use .pngs with alpha transparency. If you don't use an image, you need to remove ours*/
 #header { 
-  /*background: url("noisy_blue.png?v1") repeat-x scroll center transparent;
-  /* OR background-image: none;*/ 
-  background-color: #656556;
+  background: url("noisy_blue.png?v1") repeat-x scroll center transparent;
+  /* OR background-image: none; 
+  background-color: #EBF5FA;*/
 }
 
 
 /*replace the canvas logo with your logo*/
 #header-logo, #header.no-user #header-logo {
-  background: url("header_logo.png?v1") no-repeat scroll 0 0 transparent;*/
+  background: url("header_logo.png?v1") no-repeat scroll 0 0 transparent;
   bottom: 0px;
   height: 70px;
   left: 15px;
