@@ -38,9 +38,6 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
 /*if your logo is bigger, you can make room like this*/
 #menu { margin-left: 175px; }
 
-#courses_menu_item.menu-item-title{
-  text-indent: -5px;
-}
 
 /*change the identity bar (the area that says "Hilary Scharton Inbox Settings Logout Help)*/
 #identity {
@@ -62,12 +59,28 @@ background: url("https://raw.github.com/n-gertonson/CanvasTest/master/NU_Header.
   -moz-transition: all 0.2s ease-in-out 0s;
   -webkit-transition: all 0.2s ease-in-out 0s;
   transition: all 0.2s ease-in-out 0s;
+  text-decoration: none;
 }
+
 /*change the color of the circle around the number of unread inbox messages*/
-#identity .inbox a .unread-messages-count { background-color: #F2F0DD; }
-#identity #identity-help-container a { color: #ffffff; }
+#identity .inbox a .unread-messages-count {
+  background-color: #F2F0DD;
+}
 
+#identity #identity-help-container a {
+  color: #ffffff;
+  -moz-transition: all 0.2s ease-in-out 0s;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s; 
+}
 
+#identity #identity-help-container a:hover {
+  color: #ffae00;
+  -moz-transition: all 0.2s ease-in-out 0s;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
+  text-decoration: none;
+}
 
 
 
